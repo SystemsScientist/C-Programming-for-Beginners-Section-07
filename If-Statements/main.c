@@ -1,7 +1,7 @@
 /*
     Author: Matt Johnson
     Subject: if statements
-    Purpose: test if integer is even or odd
+    Purpose: test if number is even or odd
     Date: 01/21/2023
 */
 
