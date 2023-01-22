@@ -1,7 +1,7 @@
 /*
     Author: Matt Johnson
     Subject: switch statement
-    Purpose: program
+    Purpose: program demonstrates a switch statement
     Date: 01/22/2023
 
 */
