@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674906641 source:/home/snarkydata/udemy-courses/C-Courses/C-Programming-For-Beginners/Section-07-Control-Flow/Guess-the-Number-3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
